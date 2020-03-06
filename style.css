@@ -1,0 +1,16 @@
+@font-face {
+font-family:Meocoder;
+src: url('http://localhost/Meo_Coder/Font/font.ttf');
+font-weight:normal;
+font-style:normal;}
+body{font-family:Meocoder;font-size: 15px;}
+table{line-height: 35px;border-radius: 5px;background: #e8e3e3;margin: auto;padding: 8px;width: 405px;}
+th{text-align: center;border-radius: 30px;background: #f9c5a1;line-height: 25px;}
+a{text-decoration: none;}
+.avatar {width: 50px; height: 50px; border-radius:50%;}
+.btn {display: inline-block;padding-top: 7px;margin-bottom: 0;font-size: 14px;line-height: 20px;color: #5e5e5e;text-align: center;vertical-align: middle;cursor: pointer;background-color: #d1dade;-webkit-border-radius: 3px;background-image: none !important;border: none;text-shadow: none;box-shadow: none;transition: all 0.12s linear 0s !important;font: 14px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;}
+.btn-xoa {color: #ffffff;background-color: #f35958;}
+.btn-sua {color: #ffffff;background-color: #55a1ff;}
+.btn-them {color: #ffffff;background-color: #0aa699;}
+.btn-xoa:hover, .btn-sua:hover, .btn-them:hover {opacity: .8;}
+.btn-small {padding: 3px 12px;font-size: 11.9px;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;}
